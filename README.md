@@ -49,10 +49,10 @@ This API allows you to extract information from Thai National ID cards using Goo
     ```json
     {
         "id_card_number": "1111111111111",
-        "name": "Naruchet",
-        "last_name": "Phicharattanachai",
-        "date_of_birth": "21 Aug 1991",
-        "address": "999/80 หมู่ที่ 3 ต.ตลาด อ.เมืองนครราชสีมา จ.นครราชสีมา",
+        "name": "ssss",
+        "last_name": "sssss",
+        "date_of_birth": "22 Aug 1992",
+        "address": "xxxxxxxxxxxxx",
         "date_of_issue": "13 Mar 2023",
         "date_of_expiry": "20 Aug 2031"
     }
